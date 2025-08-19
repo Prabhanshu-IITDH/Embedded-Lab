@@ -7,6 +7,6 @@ int main(){
     c = a + b;
     int d;
     d = c -a;
-
+    a = b+c;
     return 0;
 }
